@@ -1,5 +1,18 @@
 site_name: Desarrollo aplicaciones web
 
 theme:
-name: 'material'
+  name: 'material'
 
+nav:
+  - Inici: index.md          # Página principal
+  - Modul 1: modul_1.md      # Modul 1
+  - Modul 2: modul_2.md      # Modul 2
+  - Modul 3: modul_3.md      # Modul 3
+  - Modul 4: modul_4.md      # Modul 4
+  - Modul 5: modul_5.md      # Modul 5
+  - Modul 6: modul_6.md      # Modul 6
+  - Modul 7: modul_7.md      # Modul 7
+  - Modul 8: modul_8.md      # Modul 8
+
+  
+ 

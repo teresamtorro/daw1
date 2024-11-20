@@ -1,4 +1,4 @@
-#Teresa Martínez Torró
+Teresa Martínez Torró
 ---
 - Ontinyent, Valencia
 - 3 Agost 1996
